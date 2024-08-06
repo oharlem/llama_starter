@@ -1,4 +1,4 @@
-name: llama_starter
+name: llama_starter_ollama
 channels:
   - conda-forge
   - defaults
